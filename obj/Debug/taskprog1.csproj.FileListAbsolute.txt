@@ -1,0 +1,11 @@
+D:\c sharp prog\taskprog1\taskprog1\bin\Debug\taskprog1.exe.config
+D:\c sharp prog\taskprog1\taskprog1\bin\Debug\taskprog1.exe
+D:\c sharp prog\taskprog1\taskprog1\bin\Debug\taskprog1.pdb
+D:\c sharp prog\taskprog1\taskprog1\obj\Debug\taskprog1.csproj.AssemblyReference.cache
+D:\c sharp prog\taskprog1\taskprog1\obj\Debug\taskprog1.csproj.SuggestedBindingRedirects.cache
+D:\c sharp prog\taskprog1\taskprog1\obj\Debug\taskprog1.Form1.resources
+D:\c sharp prog\taskprog1\taskprog1\obj\Debug\taskprog1.Properties.Resources.resources
+D:\c sharp prog\taskprog1\taskprog1\obj\Debug\taskprog1.csproj.GenerateResource.cache
+D:\c sharp prog\taskprog1\taskprog1\obj\Debug\taskprog1.csproj.CoreCompileInputs.cache
+D:\c sharp prog\taskprog1\taskprog1\obj\Debug\taskprog1.exe
+D:\c sharp prog\taskprog1\taskprog1\obj\Debug\taskprog1.pdb
